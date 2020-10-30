@@ -1,8 +1,19 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "1732J06",
+      "Name": "Gowtham",
+      "EmailId" : "gowtham8631@gmail.com",
+      "Address" : "Kurumbapalayam, Sulur",
+      "PhoneNumber" : "9488906256",
+      "Land" : "1,00,000",
+      "Soil" : "Red Soil",
+      "Crop" : "Rice",
+      "LoanAmount" : "2,00,000",
+      "InsuranceAmount" : "1,00,000",
+      "LoanStartDate" : "10.10.2020",
+      "LoanEndDate" : "10.3.2020",
+      "LoanValidity" : "6 Months"
     }
   ]
 }
